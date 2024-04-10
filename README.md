@@ -1,2 +1,3 @@
 # VA-senacrs
-Repósitorio curso senac rs
+Repositório curso senac rs
+Reposiótirio senac rs 3000 talentos ti
